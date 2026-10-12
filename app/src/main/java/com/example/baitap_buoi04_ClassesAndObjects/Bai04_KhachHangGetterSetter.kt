@@ -1,4 +1,4 @@
-package com.example.baitap_buoi03_Kotlinbasics
+package com.example.baitap_buoi04_ClassesAndObjects
 
 // Ho va ten: Le Bach Linh - MSSV: 25810027
 
@@ -23,7 +23,7 @@ fun main() {
 
     kh.ten = "Binh"
     println("Sau khi doi ten thanh Binh: ${kh.hoTen}")
-    
+
     kh.hoTen = "Tran Cuong"
     println("Sau khi gan hoTen moi: Ho = ${kh.ho}, Ten = ${kh.ten}")
 }
